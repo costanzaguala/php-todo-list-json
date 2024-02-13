@@ -1,0 +1,31 @@
+[
+    {
+        "task": "Svegliarsi alle 8h30",
+        "status": false
+    },
+
+    {
+        "task": "Seguire il corso di Boolean",
+        "status": false
+    },
+
+    {
+        "task": "Pranzare",
+        "status": false
+    },
+
+    {
+        "task": "Fare l'esercizio di Boolean",
+        "status": false
+    },
+
+    {
+        "task": "Cenare",
+        "status": false
+    },
+
+    {
+        "task": "Dormire",
+        "status": false
+    }
+]
