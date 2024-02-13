@@ -4,6 +4,9 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Php to do list</title>
+
+        <!-- CSS -->
+        <link rel="stylesheet" href="css/style.css">
     </head>
 
     <body>
@@ -15,7 +18,9 @@
 
         <main id="app">
             <ul>
-                <li v-for="todo in todolist">
+                <li v-for="todo in todolist" :class="{
+                                                        'completed': todo.status == true
+                                                    }">
                     {{todo.task}}
                 </li>
 

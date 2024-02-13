@@ -1,12 +1,12 @@
 [
     {
         "task": "Svegliarsi alle 8h30",
-        "status": false
+        "status": true
     },
 
     {
         "task": "Seguire il corso di Boolean",
-        "status": false
+        "status": true
     },
 
     {
