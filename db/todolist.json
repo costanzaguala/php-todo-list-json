@@ -1,31 +1,37 @@
 [
     {
         "task": "Svegliarsi alle 8h30",
+        "description": "alzarsi dal letto e fare colazione",
         "status": true
     },
 
     {
         "task": "Seguire il corso di Boolean",
+        "description": "ascoltare la lezione e prendere appunti",
         "status": true
     },
 
     {
         "task": "Pranzare",
+        "description": "mettere su l'acqua per la pasta",
         "status": false
     },
 
     {
         "task": "Fare l'esercizio di Boolean",
+        "description": "creare repo e pushare il lavoro svolto",
         "status": false
     },
 
     {
         "task": "Cenare",
+        "description": "preparare qualcosa da mangiare o ordinare una pizza",
         "status": false
     },
 
     {
         "task": "Dormire",
+        "description": "lavare i denti e mettersi il pigiama",
         "status": false
     }
 ]
